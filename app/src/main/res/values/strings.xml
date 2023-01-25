@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Adapter</string>
+    <string name="add_more">Add more...</string>
+    <string name="fn">FN</string>
+    <string name="sn">SN</string>
+    <string name="knowledge">Knowledge</string>
+</resources>
